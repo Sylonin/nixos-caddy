@@ -1211,6 +1211,8 @@ github.com/mholt/acmez v1.0.0/go.mod h1:8qnn8QA/Ewx8E3ZSsmscqsIjhhpxuy9vqdgbX2ce
 github.com/mholt/acmez v1.0.1/go.mod h1:8qnn8QA/Ewx8E3ZSsmscqsIjhhpxuy9vqdgbX2ceceM=
 github.com/mholt/acmez/v2 v2.0.1 h1:3/3N0u1pLjMK4sNEAFSI+bcvzbPhRpY383sy1kLHJ6k=
 github.com/mholt/acmez/v2 v2.0.1/go.mod h1:fX4c9r5jYwMyMsC+7tkYRxHibkOTgta5DIFGoe67e1U=
+github.com/mholt/caddy-hitcounter v1.0.0 h1:aUIoJJT8rnjvovnZgB4Ttk1eSqP3DE6V5EjUFUYvcko=
+github.com/mholt/caddy-hitcounter v1.0.0/go.mod h1:miu7Ymugx0OT0r+DUjK+QcpI419N33Cb5LgVZPQeue0=
 github.com/mholt/caddy-l4 v0.0.0-20241104153248-ec8fae209322 h1:2cH9FoIRmAOe7XGxUEBJvcu3RckQYX5uk9YyPJONsCU=
 github.com/mholt/caddy-l4 v0.0.0-20241104153248-ec8fae209322/go.mod h1:zhoEExOYPSuKYLyJE88BOIHNNf3PdOLyYEYbtnmgcSw=
 github.com/microcosm-cc/bluemonday v1.0.1/go.mod h1:hsXNsILzKxV+sX77C5b8FSuKF00vh2OMYv+xgHpAMF4=

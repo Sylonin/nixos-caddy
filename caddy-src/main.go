@@ -35,6 +35,7 @@ import (
 	_ "github.com/hslatman/caddy-crowdsec-bouncer/http"
 	_ "github.com/hslatman/caddy-crowdsec-bouncer/layer4"
 	_ "github.com/lolPants/caddy-requestid"
+	_ "github.com/mholt/caddy-hitcounter"
 	_ "github.com/mholt/caddy-l4"
 	_ "github.com/mpilhlt/caddy-conneg"
 	_ "github.com/shift72/caddy-geo-ip"

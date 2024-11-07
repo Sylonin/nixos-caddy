@@ -23,6 +23,7 @@ require (
 	github.com/greenpau/caddy-security v1.1.29
 	github.com/hslatman/caddy-crowdsec-bouncer v0.6.0
 	github.com/lolPants/caddy-requestid v1.1.2
+	github.com/mholt/caddy-hitcounter v1.0.0
 	github.com/mholt/caddy-l4 v0.0.0-20241104153248-ec8fae209322
 	github.com/mpilhlt/caddy-conneg v0.1.4
 	github.com/shift72/caddy-geo-ip v0.6.0
